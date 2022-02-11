@@ -2,6 +2,7 @@
 - I’m interested in BI, data science and classification models.
 - Recently graduated from Univeristy of Lodz in field of Informatics and Econometrics. Currently studying Data Analysis at University of Lodz.  
 - I’m currently learning python, java and machine learning models.
+- Most of the time i use R language.
 - Planning to learn scala in near future.
 
 - 📫 contact: wwsobanski@gmail.com
